@@ -1,6 +1,6 @@
 Name:		texlive-precattl
 Version:	63967
-Release:	1
+Release:	2
 Summary:	Prepare special catcodes from token list
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/precattl
